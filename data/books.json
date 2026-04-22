@@ -1,0 +1,20 @@
+[
+  {
+    "book_id": "1",
+    "title": "The Silent Patient",
+    "genre": "thriller",
+    "summary": "A woman shoots her husband and stops speaking."
+  },
+  {
+    "book_id": "2",
+    "title": "Harry Potter",
+    "genre": "fantasy",
+    "summary": "A young wizard studies magic at a school."
+  },
+  {
+    "book_id": "3",
+    "title": "Sherlock Holmes",
+    "genre": "mystery",
+    "summary": "A detective solves complex crimes."
+  }
+]
